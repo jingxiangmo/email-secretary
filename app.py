@@ -75,8 +75,6 @@ if page == "Email Writer":
         st.markdown("---")
         st.code(generate_translation(rewrite_output), language="markdown")
 
-  st.markdown("---")
-
 # =====[ EMAIL SUMMARY ]===== #
 if page == "Text Translate and Summary":
   output_summary = ""
@@ -99,9 +97,3 @@ if page == "Text Translate and Summary":
       st.markdown("---")
       st.markdown("#### 主要信息")
       st.markdown(summarize(output_summary))
-
-
-
-
-
-
