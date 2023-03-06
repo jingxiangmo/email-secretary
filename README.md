@@ -1,12 +1,5 @@
 # Email Secretary MVP
 
-<div align="center">
-  <img src="https://openai.com/content/images/2022/05/openai-avatar.png" width="200" height="200" />
-  <img src="https://www.seekpng.com/png/detail/127-1278413_language-free-download-png-and-vector-foreign-language.png" width="200" height="200" />
-</div>
-
-<br />
-
 The goal of this web app to help write clear and concise emails with confidence for non-native English speakers. It offers:
 1. Context-aware translation from Chinese to English (and vice versa)
 2. Ideas to well-written emails using GPT-3
