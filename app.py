@@ -34,7 +34,7 @@ def generate_translation(text: str) -> str:
 def summarize(text: str) -> str:
   response =  openai.Completion.create(
   model="text-davinci-003",    
-  prompt="Summarize the following into understandable bullet points in markdown in Chinese: " +  text,
+  prompt="Summarize the following into understandable bullet points in markdown in Simplified Chinese: " +  text,
   max_tokens=1000,
   )  
   return response.choices[0].text
