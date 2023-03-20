@@ -1,4 +1,5 @@
-# Email Secretary MVP
+# Fast Email 
+MVP
 
 The goal of this web app to help write clear and concise emails with confidence for non-native English speakers. It offers:
 1. Context-aware translation from Chinese to English (and vice versa)
